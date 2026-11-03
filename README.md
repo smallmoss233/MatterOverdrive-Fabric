@@ -1,5 +1,5 @@
 # MatterOverdrive-Fabric
-![alt tag](https://github.com/Matter-Overdrive-Community-Edition/MatterOverdrive-Community-Edition-1.12.2/blob/main/BannerBlinks.gif)
+![alt tag](https://raw.githubusercontent.com/Matter-Overdrive-Community-Edition/.github/refs/heads/main/profile/BannerBlinks.gif)
 
 * [中文文档](https://github.com/oupanyu/MatterOverdrive-Fabric/blob/main/README-zh.md)
 
