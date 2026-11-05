@@ -1,14 +1,9 @@
 package matteroverdrive.cores.blocks.blockentity;
 
 import net.minecraft.block.BlockState;
-import net.minecraft.block.entity.BlockEntity;
-import net.minecraft.block.entity.BlockEntityTicker;
 import net.minecraft.block.entity.BlockEntityType;
 import net.minecraft.util.math.BlockPos;
-import net.minecraft.world.World;
 import team.reborn.energy.api.base.SimpleEnergyStorage;
-
-import javax.annotation.Nullable;
 
 public class GenericPowerAcceptorBlockEntity extends GenericBlockEntity {
     private long capacity;
